@@ -1,5 +1,5 @@
 /* ====== SETTINGS — change these to your real details ====== */
-const WHATSAPP_NUMBER = '2348000000000';   // country code + number, no "+" or spaces
+const WHATSAPP_NUMBER = '2348068238357';   // country code + number, no "+" or spaces
 const BUSINESS_NAME   = 'Diamond Event N Services';
 // Enquiries are emailed to this address (first submission needs a one-time activation)
 const ENQUIRY_EMAIL   = 'Otugift62@gmail.com';
